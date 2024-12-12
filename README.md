@@ -3,3 +3,4 @@ this is a super coool training project
 
 There are some in here taken straight from odoo community, just as examples, please don't sue me
 NO I WILL NOT SUE YOU
+MAINNNNNN DATABASE
